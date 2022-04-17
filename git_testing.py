@@ -22,3 +22,5 @@ for i in range(1,11):
          print (i,"is a Fibonacci Number")
      else:
          print (i,"is a not Fibonacci Number ")
+
+print("Line for stash command")
