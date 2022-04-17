@@ -1,0 +1,1 @@
+print("The “fatal: refusing to merge unrelated histories” Git error")
